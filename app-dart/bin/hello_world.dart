@@ -5,6 +5,6 @@ void main() {
   String nama = "Hello World";
   
   for (var i = 0; i < 10; i++) {
-    print(jumlah);
+    print("hasilnya adalah $jumlah");
   }
 }
